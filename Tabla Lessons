@@ -1,0 +1,273 @@
+<!DOCTYPE html>
+<html> 
+<head> 
+<meta charset="utf-8">
+<title> Ranjeet gatka Akhada Tabla Lessons </title>
+<style>
+.TAK-5-E {
+font-style: italic;
+color: red;
+font: fantasy;
+}
+.TIN-6 {
+color: red;
+}
+.Week {
+	color: blue;
+}
+.Bols {
+	color:rgba(199,86,13,1.00);
+}
+.Title {
+	
+}
+#Title {
+	color:darkblue;
+}
+.Week {
+	
+}
+	#DWeek 1 {
+		margin-bottom: 150;
+	}
+	#seven-1 {
+		background-color: blue;
+		width: 50%;
+		height: auto;
+		
+	}
+	
+	
+</style>
+</head>
+<body>
+
+
+<h1 id="Title"> Ranjeet Gatka Akhada Tabla Lessons </h1>
+	<br>
+<a href = "#Week 1"> Week 1</a> <br>
+<a href = "#Week 2"> Week 2</a> <br>	
+<a href = "#Week 3"> Week 3</a> <br>
+<a href = "#Week 4"> Week 4</a> <br>
+<a href = "#Week 5"> Week 5</a> <br>
+<a href = "#Week 6"> Week 6</a> <br>	
+<a href = "#Week 7"> Week 7</a> <br>
+<a href = "#Week 8"> Week 8</a> <br>
+<a href = "#Week 9"> Week 9</a> <br>
+<a href = "#Week 10"> Week 10</a> <br>
+<a href = "#Week 1"> Week 11</a> <br>
+<a href = "#Week 24">Week 24</a>	
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<div id="DWeek 1">
+<h2 class="Week" id = "Week 1"> &nbsp;Week 1</h2>
+
+<h3 class="Bols"> Dha Dha Tir Kit || Ta Ta Tir Kit <br> 
+ਧਾ ਧਾ ਤਿਰ ਕਿਟ || ਤਾ ਤਾ ਤਿਰ ਕਿਟ </h3>
+<h4> Demonstration of the lesson </h4>
+<a href = "https://youtu.be/kxujQoE5ZRI"> Video Link </a>
+<p> This Lesson is designed to work on the bol 
+	<bold> TA</bold>
+  </p>
+	</div>
+	<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+<h2 class="Week" id = "Week 2"> Week 2 </h2>
+<h3 class="Bols"> Dhin Dhin Tir Kit || Tin Tin Tir Kit <br> ਧਿੰਨ ਧਿੰਨ ਤਿਰ ਕਿਟ || ਤਿਨ ਤਿਨ ਤਿਰ ਕਿਟ </h3>
+<h4> Demonstration of lesson </h4>
+<a href = "https://www.youtube.com/watch?v=TjhOAu2Wyhk"> Video Link </a>
+<p> This lesson is designed to work on the bol <bold> TIN </bold></p>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<h2 class="Week" id = "Week 3"> Week 3 </h2>
+<h3 class="Bols"> Dha Ge Na Tin || Na Ge Dhin Na <br> ਧਾ ਗੇ ਨਾ ਤਿਨ || ਨਾ ਗੇ ਧਿੰਨ ਨਾ </h3>
+<h4> Demonstration of the lesson </h4>
+<a href = "https://www.youtube.com/watch?v=Zfl0Y8alqpI"> Video Link </a>
+<p> This lesson is designed to teach a basic Kehrwa Theka </p>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<h2 class="Week" id = "Week 4"> Week 4 </h2> 
+<h3 class="Bols"> Dha Dhin Dhin Dha || Dha Dhin Dhin Dha || Dha Tin Tin Ta || Ta Dhin Dhin Dha <br> 
+ਧਾ ਧਿੰਨ ਧਿੰਨ ਧਾ || ਧਾ ਧਿੰਨ ਧਿੰਨ ਧਾ || ਧਾ ਤਿਨ ਤਿਨ ਤਾ || ਤਾ ਧਿੰਨ ਧਿੰਨ ਧਾ </h3>
+<h4> Demonstration of the Lesson </h4>
+<a href = "https://youtu.be/9Bh4CaK7n4E"> Video Link </a>
+<p> This lesson was designed to teach the basic Tin Taal Theka </p>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<h2 class="Week" id = "Week 5"> Week 5 </h2>
+<h3 class="Bols"> Dha Dhin Dhin Dha || Dha Dhin Dhin Dha || Dha Tin Tin <bold Class = "TAK-5-E"> TAK </bold> || <bold Class = "TAK-5-E"> TITE </bold> Dhin Dhin Dha <br>
+ਧਾ ਧਿੰਨ ਧਿੰਨ ਧਾ || ਧਾ ਧਿੰਨ ਧਿੰਨ ਧਾ || ਧਾ ਤਿਨ ਤਿਨ <bold Class = "TAK-5-E"> ਤਾਕਿ </bold> || <bold Class = "TAK-5-E"> ਟਿਟੁ </bold> ਧਿੰਨ ਧਿੰਨ ਧਾ </h3>
+<p> This is a Parkaar of Tin taal which changes 2 bols </p>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<h2 id = "Week 6"> Week 6 </h2>
+<h2 class="Title"> Dadra Theka </h2>
+<h3 class="Bols"> Tin Tin Na Dhin Na Dhin Na <br> ਤਿਨ ਤਿਨ ਨਾ ਧਿੰਨ ਨਾ ਧਿੰਨ ਨਾ </h3>
+<h2 class="Title"> Parkaar 1 </h2>
+<h3 class="Bols"> Tin Tin Na Dhin Na-Na Dhin Na-Na <br>
+ਤਿਨ ਤਿਨ ਨਾ ਧਿੰਨ ਨਾ-ਨਾ ਧਿੰਨ ਨਾ-ਨਾ </h3>
+<h2 class="Title"> Parkaar 2 </h2>
+<h3 class="Bols"> Tin Tin Na Dhin-Dhin Na-Na Dhin-Dhin Na-Na <br> ਤਿਨ ਤਿਨ ਨਾ ਧਿੰਨ-ਧਿੰਨ ਨਾ-ਨਾ ਧਿੰਨ-ਧਿੰਨ ਨਾ-ਨਾ </h3>
+<h2> Dadra Uthan </h2>
+<h3> TaK Tir Kit TaK <br> Tir Kit Tin - <br> Tir Kit Tin - <br> Tir Kit <bold Class = "TIN-6">Tin </bold> </h3>
+<h3> ਤਾਕਿ ਤਿਰ ਕਿਟ ਤਾਕਿ <br> ਤਿਰ ਕਿਟ ਤਿਨ - <br> ਤਿਰ ਕਿਟ ਤਿਨ - <br> ਤਿਰ ਕਿਟ <bold Class = "TIN-6">ਤਿਨ </bold></h3>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+	
+<h2 id = "Week 7"> Week 7 </h2>
+	<div id = "seven-1">
+<h2> Dadra Theka </h2>
+<h3> Dha Dhin Na || Dha Tin Na <br> ਧਾ ਧਿੰਨ ਨਾ || ਧਾ ਤਿਨ ਨਾ </h3>
+<h2> Parkaar 1 </h2>
+<h3> Dha Tin Tin || Ta Dhin Dhin <br> ਧਾ ਤਿਨ ਤਿਨ || ਤਾ ਧਿੰਨ ਧਿੰਨ </h3>
+<h2> Parkaar 2 </h2> 
+<h3> Dha Tin Tin || Na-Ge Dhin Dhin <br> ਧਾ ਤਿਨ ਤਿਨ || ਨਾ-ਗੇ ਧਿੰਨ ਧਿੰਨ </h3>
+	</div>
+	<div id = "seven-2">
+<h2> Parkar 3 </h2>
+<h3> Dha-Na Tin Tin || Na-Ge Dhin Dhin <br> ਧਾ-ਨਾ ਤਿਨ ਤਿਨ || ਨਾ-ਗੇ ਧਿੰਨ ਧਿੰਨ </h3>
+<h2> Dugan </h2>
+<h3> Dha Tin Ta || Ta Dhin Na <br> ਧਾ ਤਿਨ ਤਾ || ਤਾ ਧਿੰਨ ਨਾ </h3>
+	</div>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<h2 id = "Week 8"> Week 8 </h2>
+<h2> Dadra Practice </h2>
+<h3> Theka - Dha Dhin Na || Dha Tin Na </h3>
+<h3> Uthan - Ta - Ta - Ti Te || Ta Tir Kit Ta Ta - </h3>
+<h3> Dugan - Dha Tin Ta || Ta Dhin Na </h3>
+<h3> Filler - Ta Ta - Ta Ta - </h3>
+<h3> Tihaai - Dha Tir Kit Ta Tir Kit || Dha Na Ti Dha Na Ti </h3>
+<h2> Pratice Routine </h2>
+<h3> Theka x3 || Uthan x1 || Dugan x3 || Filler x1 || Dugan x4 || Tihaai x1 || Theka x1 </h3>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<h2 id = "Week 9"> Week 9 </h2>
+<h2> Kehrwa </h2>
+<h3> Theka Ghazal - Dha TeThi Tin+Ke Tin+Ke Ta TeThi Dhin Dhin </h3>
+<h3> Parkaar 1 - Dha TeThi Tin+Ke Tin+Ke TaKe TeThi Dhin Dhin </h3>
+<h3> Parkaar 2 - Dha TeThi Tin+Ke Tin+Ke TaKe TeDhi Dhin Dhin </h3>
+<h3> Parkaar 3 - DhaDha GeTa Tin+Ke Tin+Ke TaKe TeDhi Dhin Dhin </h3>
+<h3> Parkaar 4 - Dha TirKit Tin Tin TaKe TirKit Dhin Dhin </h3>
+<h3> Thoaraa - Ta+Ke Ke Ti Ta+Ke Ke Ti Ta+Ke </h3>
+<h3> Dugan - Da Ti Na Na Ta Ti Dha Ta </h3>
+<h3> End Tihai - DhaDha TirKit <br> DhaTi Dha - Ne <br> DhaTi Dha - Ne <br> DhaTi Dha </h3>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<h2 id = "Week 10"> Week 10 </h2>
+<h2> EkTaal </h2>
+<h3> Theka - Dhin Dhin DhaGe TirKit Tu Na Kat Ta DhaGe TirKit Dhin Na </h3>
+<h3> Parkaar - Dhin Tin DhaGe TeThi Tu Na TuKe TeThi DhaGe TeThi Dhin Na </h3>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<h2 id = "Week 11"> Week 11 </h2>
+<h2> JhapTaal </h2>
+<h3> Theka - Dhin Na Dhin Dhin Na Tin Na Dhin Dhin Na </h3>
+<h3> Parkaar 1 - Dhin Na Dhin Dhin Na Tin Na DhinDhin NaDhin DhinNa </h3>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<h2 id = "Week 12"> Week 12 </h2>
+<h2> JhapTaal </h2>
+<h3> Parkaar 2 - Dhin Na TeThiDhin KeDhaDhinDhin NaNa Tin+Ke Na Dhin Dhin Na </h3>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<h2 id = "Week 13"> Week 13 </h2>
+<h2> Deep Chandi </h2>
+<h3> Theka - Dha Dhin - Dha Ge Tin - Ta Tin - Dha Ge Dhin - </h3>
+<h3> Parkaar - Dha Tit Dha - Dha - Ta+Ke Tit Ta+Ke - Ta+Ke - </h3>
+<h3> Parkaar 2 - Dha Tit Dha Ta Dit Ta Tit Ta - Ta - </h3>
+<h3> Parkaar 3 - Dha Tit Dha Ta Dit Ta Tit Na+Ke-Na Tit Na+Ke-Na Tit </h3>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<h2 id = "Week 14"> Week 14 </h2>
+<h2> </h2>
+<h3> DhaTi DhaGe TuNa KeNa TaTi DhaGe DhuNa GeNa </h3>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<h2 id = "Week 15"> Week 15 </h2>
+<h2> </h2>
+<h3> Dha Dha TirKit Tk Tak TirKit <br> Ta Ta TirKit Tk Tak TirKit <br> Dha Dha TirKit Dha Dha TirKit <br> Dha Dha TirKit Tk Tak TirKit </h3>
+<h3> Tihaai - Dha Dha TirKit Tk Tak TirKit Dha - Ke <br> Dha Dha TirKit Tk Tak TirKit Dha - Ke <br> Dha Dha TirKit Tk Tak TirKit <bold id = "15 Dha"> Dha </bold>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<h2 id = "Week 16"> Week 16 </h2>
+<h2> Teen Taal kayda </h2>
+<h3> Kayda - DhaDha Tit DhaDha TuNa TaTa Tit DhaDha DhuNa </h3>
+<h3> Palta 1 - DhaDha Tit DhaDha DhuNa TaTa Tit DhaDha TuNa <br> TaTa Tit TaTa TuNa DhaDha Tit DhaDha DhuNa </h3>
+<h3> Palta 2 - DhaDha Tit DhaDha Tit DhaDha Tit DhaDha TuNa <br> TaTa Tit TaTa Tit DhaDha Tit DhaDha DhuNa </h3>
+<h3> Palta 3 - DhaDha Tit Tit DhaDha DhaDha Tit DhaDha TuNa <br> TaTa Tit Tit TaTa DhaDha Tit DhaDha DhuNa </h3>
+<h3> Palta 4 - DhaDha Tit Tit Tit DhaDha Tit DhaDha TuNa <br> TaTa Tit Tit Tit DhaDha Tit DhaDha DhuNa </h3>
+<h3> Palta 5 - DhaDha Tit -Dha Tit DhaDha Tit DhaDha TuNa <br> TaTa Tit -Ta Tit DhaDha Tit DhaDha DhuNa </h3>
+<h3> Kayda </h3>
+<h3> Tihaai - DhaDha TuNa Dha - <br> DhaDha TuNa Dha - <br> DhaDha TuNa <bold id = "16 Dha">Dha</bold> </h3>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<h2 id = "Week 17"> Week 17 </h2>
+<h2> Teen Taal Kayda 2 </h2>
+<h3> Kayda - DhaDha Tit DhaDha TuNa TaTa TirKit DhaDha DhuNa </h3>
+<h3> Palta 1 - DhaDha TirKit DhaDha DhuNa DhaDha TirKit DhaDha TuNa <br> TaTa TirKit TaTa TuNa DhaDha TirKit DhaDha DhuNa </h3>
+<h3> Palta 2 - DhaDha TirKit DhaDha TirKit DhaDha TirKit DhaDha TuNa <br> TaTa TirKit TaTa TirKit DhaDha TirKit DhaDha DhuNa </h3>
+<h3> Palta 3 - DhaDha TirKit TirKit TirKit DhaDha TirKit DhaDha TuNa <br> TaTa TirKit TirKit TirKit DhaDha TirKit DhaDha DhuNa </h3>
+<h3> Palta 4 - DhaDha TirKit TirKit TirKit TirKit TirKit DhaDha TuNa <br> TaTa TirKit TirKit TirKit TirKit TirKit DhaDha DhuNa </h3>
+<h3> Palta 5 - DhaDha TirKit -Dha TirKit DhaDha TirKit DhaDha TuNa <br> TaTa TirKit -Ta TirKit DhaDha TirKit DhaDha DhuNa </h3>
+<h3> Kayda </h3>
+<h3> Tihaai - DhaDha TuNa Dha - <br> DhaDha TuNa Dha - <br> DhaDha TuNa <bold id = "17 Dha">Dha</bold></h3>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<h2 id = "Week 18"> Week 18 </h2>
+<h2> TeenTaal Uthan and Tukda </h2>
+<h3> TeenTaal Uthan - Tak Tk Tak Tk Tak <br> TirKit Tk Tak TirKit Dha <br> TirKit Tk Tak TirKit Dha <br> TirKit Tk Tak TirKit Dha </h3>
+<h3> TeenTaal Tukda - DhaDha TirKit Tk Tak TirKit <br> TaTa TirKit Tk Tak TirKit <br> DhaDha TirKit DhaDha TirKit <br> DhaDha TirKit Tk Tak TirKit <br> DhaDha TirKit Tk Tak TirKit Dha - Ke <br> DhaDha TirKit Tk Tak TirKit Dha - Ke <br> DhaDha TirKit Tk Tak TirKit <bold id = "18 Dha"> Dha </bold></h3>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<h2 id = "Week 19"> Week 19 </h2>
+<h2> TeenTaal Kayda 1 </h2>
+<h3> Kayda - DhaDha Tit DhaDha TuNa <br> TaTa Tit DhaDha DhuNa </h3>
+<h3> Palta 1 - DhaDha Tit DhaDha DhuNa <br> DhaDha Tit DhaDha TuNa <br> TaTa Tit TaTa TuNa <br> DhaDha Tit DhaDha DhuNa </h3>
+<h3> Palta 2 - DhaDha Tit DhaDha Tit <br> DhaDha Tit DhaDha TuNa <br> TaTa Tit TaTa Tit <br> DhaDha Tit DhaDha DhuNa </h3>
+<h3> Palta 3 - DhaDha Tit Tit DhaDha <br> DhaDha Tit DhaDha TuNa <br> TaTa Tit Tit TaTa <br> DhaDha Tit DhaDha DhuNa </h3>
+<h3> Palta 4 - DhaDha Tit Tit Tit <br> DhaDha Tit DhaDha TuNa <br> TaTa Tit Tit Tit <br> DhaDha Tit DhaDha DhuNa </h3>
+<h3> Palta 5 - DhaDha Tit Da Tit <br> DhaDha Tit DhaDha TuNa <br> TaTa Tit Ta Tit <br> DhaDha Tit DhaDha DhuNa </h3>
+<h3> Kayda </h3>
+<h3> Tihaai - DhaDha TuNa Dha - <br> DhaDha TuNa Dha - <br> DhaDha TuNa <bold id = "19 Dha">Dha</bold></h3>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<h2 id = "Week 20"> Week 20 </h2>
+<h2> TeenTaal Kayda 2 </h2>
+<h3> Kayda - DhaDha TirKit DhaDha TuNa <br> TaTa TirKit DhaDha DhuNa </h3>
+<h3> Palta 1 - DhaDha TirKit DhaDha DhuNa <br> DhaDha TirKit DhaDha TuNa <br> TaTa TirKit TaTa TuNa <br> DhaDha TirKit TaTa DhuNa </h3>
+<h3> Palta 2 - DhaDha TirKit DhaDha TirKit <br> DhaDha TirKit DhaDha TuNa <br> TaTa TirKit TaTa TirKit <br> DhaDha TirKit TaTa DhuNa </h3>
+<h3> Palta 3 - DhaDha TirKit TuKeTaKe TirKit <br> DhaDha TirKit DhaDha TuNa <br> TaTa TirKit TuKeTaKe TirKit <br> DhaDha TirKit TaTa DhuNa </h3>
+<h3> Palta 4 - DhaDha TirKit TuKeTaKe TirKit <br> TuKeTaKe TirKit DhaDha TuNa <br> TaTa TirKit TuKeTaKe TirKit <br> TuKeTaKe TirKit DhaDha DhuNa </h3>
+<h3> Palta 5 - DhaDha TirKit -Dha TirKit <br> DhaDha TirKit DhaDha DhuNa <br> TaTa TirKit -Ta TirKit <br> DhaDha TirKit DhaDha DhuNa </h3>
+<h3> Kayda </h3>
+<h3> DhaDha TirKit Dha - <br> DhaDha TirKit Dha - <br> DhaDha TirKit <bold id = "20 Dha"> Dha </bold></h3>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<h2 id = "Week 21"> Week 21 </h2>
+<h2> TeenTaal Kayda 3 </h2>
+<h3> Kayda - DhaTi DhaGe TuNa KeNa <br> TaTi TaKe DhaNa GeNa </h3>
+<h3> Palta 1 - DhaTi DhaGe DhuNa GeNa <br> DhaTi DhaGe TuNa KeNa <br> TaTi TaKe TuNa KeNa <br> DhaTi DhaGe DhuNa GeNa </h3>
+<h3> Palta 2 - DhaTi DhaGe DhaTi DhaGe <br> DhaTi DhaGe TuNa KeNa <br> TaTi TaKe TaTi TaKe <br> DhaTi DhaGe DhuNa GeNa </h3>
+<h3> Palta 3 - DhaTi DhaTi DhaGe DhaTi <br> DhaTi DhaGe TuNa KeNa <br> TaTi TaTi TaKe TaTi <br> DhaTi DhaGe DhuNa GeNa </h3>
+<h3> Palta 4 - DhaTi DhaTi DhaTi DhaGe <br> DhaTi DhaGe TuNa KeNa <br> TaTi TaTi TaTi TaKe <br> DhaTi DhaGe DhuNa GeNa </h3>
+<h3> Palta 5 - DuNa GeNa DhaTi DhaGe <br> DhaTi DhaGe TuNa KeNa <br> TuNa KeNa TaTi TaKe <br> DhaTi DhaGe DhuNa GeNa </h3>
+<h3> Palta 6 - DuNa GeNa DhuNa GeNa <br> DhaTi DhaGe TuNa KeNa <br> TuNa KeNa TuNa KeNa <br> DhaTi DhaGe DhuNa GeNa </h3>
+<h3> Kayda </h3>
+<h3> Chakradaar Tihaai - DhuNa GeNa DhaTi DhaGe TuNa KeNa Dha <br> DhuNa GeNa DhaTi DhaGe TuNa KeNa Dha <br> DhuNa GeNa DhaTi DhaGe TuNa KeNa Dha Ke <br> DhuNa GeNa DhaTi DhaGe TuNa KeNa Dha <br> DhuNa GeNa DhaTi DhaGe TuNa KeNa Dha <br> DhuNa GeNa DhaTi DhaGe TuNa KeNa Dha Ke <br> DhuNa GeNa DhaTi DhaGe TuNa KeNa Dha <br> DhuNa GeNa DhaTi DhaGe TuNa KeNa Dha <br> DhuNa GeNa DhaTi DhaGe TuNa KeNa Dha </h3>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<h2 id = "Week 22"> Week 22 </h2>
+<h2> Pakhavag Bols </h2>
+<h3> Dha tT Dhe Tt <br> KuT G-Di gNe </h3>
+<h3> tT - Play Tit the oposite way </h3>
+<h3> Dhe - Play Index finger on Tit and play Ge along with it as well </h3>
+<h3> Tt - Play normal Tit </h3>
+<h3> KuT - slightly turn your right hand to the right and hit down on tit using pinky finger + play Ke as well </h3>
+<h3> G-Di - Play ge then tu </h3>
+<h3> gNe - play Ke then hit middle and ring finger on the bottom edge of Tit </h3>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<h2 id = "Week 23"> Week 23 </h2>
+<h2> Adha TeenTaal </h2>
+<h3> Dha -GeDhin Ne Dha <br> DhaDha -GeDhin Ne Dha <br> Dha -KeTin Ne Ta <br> TaTa -GeDhin Ne Dha </h3>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<h2 id = "Week 24"> Week 24 </h2>
+<h2> Adha TeenTaal Parkaars </h2>
+<h3> Parkaar 1 - Dha Dhin Dhin Dha <br> Dha Dhin Dhin Dha <br> Dha Tin Tin Take <br> TeTi Dhin Dhin Dha </h3>
+<h3> Parkaar 2 - Dha Dhin Dhin Dha <br> Dha Dhin Dhin Dha <br> Dha teTi Tu+Ke Take <br> TeTI Dhin Dhin Dha </h3>
+<h3> Parkaar 3 - Dha Dhin Dhin Dha <br> Dha Dhin Dhin Dha <br> Dha Tin Tin Take <br> TirKit Dhin Dhin Dha </h3>
+<h3> Parkaar 4 - Dha Dhin Dhin Dha <br> Dha Dhin Dhin Dha <br> Dha TirKirt Tin Take <br> TirKit Dhin Dhin Dha </h3>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<h2 id = "Week 25"> Week 25 </h2>
+<h2> TeenTaal Tukra </h2>
+<h3> DhaTi Dha TirKit TaKe TirKit Dha - </h3>
+<h3> DhaDha TirKit Dha - <br> DhaDha TirKit Dha - <br> DhaDha TirKit <bold id = "25 Dha">Dha</bold></h3>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<h2 id = "Week 26"> Week 26 </h2>
+<h3> Tukda - Dha TirKit Dha Tt KuT GiDi gNa <br> Ta TirKit Dha Tt KuT GiDi gNa </h3>
+<h3> Tihaai - Dha TirKit Dha Tt KuT GiDi GiNa Dha - Ke - <br> Dha TirKit Dha Tt KuT GiDi GiNa Dha - Ke - <br> Dha TirKit Dha Tt KuT GiDi GiNa Dha </h3>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<h2 id = "Week 27"> Week 27 </h2>
+<h2> TeenTaal Tukda </h2>
+<h3> Dha TirKit TuKe TirKit, Dha TirKit TuKe, Dha TirKit TuKe TirKit <br> Ta TirKit TuKe TirKit, Dha TirKit TuKe, Dha TirKit TuKe TirKit </h3>
+</body>
+</html>
